@@ -32,7 +32,6 @@
 ### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
@@ -40,8 +39,6 @@
 - **[StreetSafe](https://github.com/sneha0410-debug/StreetSafe)**  
   JavaScript-based project focused on [brief description, e.g., “safety tracking”].
 
-- **[Secure Contact Form – WordPress Plugin](https://github.com/sneha0410-debug/secure-contact-form-wordpress)**  
-  Beginner-friendly plugin with server-side validation and secure data handling.
 
 - More projects coming soon! 🚀
 
