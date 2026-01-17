@@ -38,6 +38,7 @@
 ---
 
 ## Connect with Me
+- LinkedIn: [https://www.linkedin.com/in/sneha-lodha-o04/](https://www.linkedin.com/in/sneha-lodha-o04/)
 - GitHub: [https://github.com/sneha0410-debug](https://github.com/sneha0410-debug)
 - Email: [snehalodha03@gmail.com](mailto:snehalodha03@gmail.com)
 
