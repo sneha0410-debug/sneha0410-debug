@@ -39,4 +39,5 @@
 
 ## Connect with Me
 - GitHub: [https://github.com/sneha0410-debug](https://github.com/sneha0410-debug)
+- Email: [snehalodha03@gmail.com](mailto:snehalodha03@gmail.com)
 
