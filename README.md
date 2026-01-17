@@ -35,15 +35,6 @@
 
 ---
 
-## Projects / Repositories
-- **[StreetSafe](https://github.com/sneha0410-debug/StreetSafe)**  
-  JavaScript-based project focused on [brief description, e.g., “safety tracking”].
-
-
-- More projects coming soon! 🚀
-
----
-
 ## Connect with Me
 - GitHub: [https://github.com/sneha0410-debug](https://github.com/sneha0410-debug)
 
