@@ -29,6 +29,7 @@
 
 ### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ---
 
 ## Open Source Contributions 🚀
@@ -40,6 +41,8 @@
 - Followed WordPress Coding Standards (PHPCS / WPCS)
 
 🔗 PR: https://github.com/oidc-wp/openid-connect-generic/pull/609
+
+---
 
 ## Connect with Me
 - LinkedIn: [https://www.linkedin.com/in/sneha-lodha-o04/](https://www.linkedin.com/in/sneha-lodha-o04/)
