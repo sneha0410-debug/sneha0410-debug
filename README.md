@@ -1,6 +1,19 @@
 <div align="center">
 
 # Hello There! 👋
+I’m a WordPress-focused developer with hands-on experience in PHP and real-world open-source contributions.
+
+---
+
+## Open Source Contributions 🚀
+
+### 🔹 OpenID Connect Generic (WordPress Plugin)
+- Contributed to a widely-used WordPress authentication plugin
+- Fixed multisite user option handling issue
+- PR reviewed, approved, and merged by the maintainer
+- Followed WordPress Coding Standards (PHPCS / WPCS)
+
+🔗 PR: https://github.com/oidc-wp/openid-connect-generic/pull/609
 
 ---
 
@@ -29,18 +42,6 @@
 
 ### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-## Open Source Contributions 🚀
-
-### 🔹 OpenID Connect Generic (WordPress Plugin)
-- Contributed to a widely-used WordPress authentication plugin
-- Fixed multisite user option handling issue
-- PR reviewed, approved, and merged by the maintainer
-- Followed WordPress Coding Standards (PHPCS / WPCS)
-
-🔗 PR: https://github.com/oidc-wp/openid-connect-generic/pull/609
 
 ---
 
