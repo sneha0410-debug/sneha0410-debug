@@ -31,6 +31,16 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ---
 
+## Open Source Contributions 🚀
+
+### 🔹 OpenID Connect Generic (WordPress Plugin)
+- Contributed to a widely-used WordPress authentication plugin
+- Fixed multisite user option handling issue
+- PR reviewed, approved, and merged by the maintainer
+- Followed WordPress Coding Standards (PHPCS / WPCS)
+
+🔗 PR: https://github.com/oidc-wp/openid-connect-generic/pull/609
+
 ## Connect with Me
 - LinkedIn: [https://www.linkedin.com/in/sneha-lodha-o04/](https://www.linkedin.com/in/sneha-lodha-o04/)
 - GitHub: [https://github.com/sneha0410-debug](https://github.com/sneha0410-debug)
