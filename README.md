@@ -9,7 +9,7 @@ I’m a WordPress-focused developer with hands-on experience in PHP and real-wor
 
 ### 🔹 OpenID Connect Generic (WordPress Plugin)
 - Contributed to a widely-used WordPress authentication plugin
-- Fixed multisite user option handling issue
+- Fixed multisite user option handling issue while preserving backward compatibility
 - PR reviewed, approved, and merged by the maintainer
 - Followed WordPress Coding Standards (PHPCS / WPCS)
 
